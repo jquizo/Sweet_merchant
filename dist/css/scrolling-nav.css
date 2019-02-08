@@ -1,0 +1,115 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 150px 0;
+}
+
+/*----------CUSTOM CSS STYLES---------- */
+
+/*----------ICON LOGO---------- */
+.logo_icon {
+    border-radius: 50%;
+    width: 60px;
+    height: auto;
+    position: 
+}
+
+/*----------BACKGROUND IMAGES----------*/
+.pbackground {
+    background-image: url(../img/pimg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    opacity: 0.80;
+    margin-top: 4rem;  
+    
+}
+.pbackground2 {
+    background-image: url(../img/pimg2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 300px;
+    opacity: 0.80;
+    margin-bottom: 0px;
+    background-position: fixed;
+}
+.pbackground3 {
+    background-image: url(../img/pimg3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 350px;
+    opacity: 0.80;
+    margin-bottom: 0px;
+}
+
+/*----------LOGO IN ABOUT SECTION----------*/
+.logo {
+    border-radius: 50%;
+    position: relative;
+    top: -2rem
+}
+
+/*----------ABOUT SECTION----------*/
+#about {
+   padding: 1rem 1rem;
+   background-color: #FEFFFF;
+}
+
+#gallery {
+   padding: 3rem 3rem;
+   color: white;
+   background-color: #2D283E;
+}
+#contact {
+    color: black;
+    padding: 3rem 1rem 5rem 1rem;
+    background-color: #D83F87;
+}
+
+footer {
+    background-color: #19181A;
+}
+
+.lead {
+   text-align:justify; 
+}
+
+/*----------LINKS----------*/
+
+.fblink, .instalink {
+    color: black;
+    text-decoration: none;
+}
+
+/*CAROUSEL*/
+
+.gallerycontainer {
+    background-color: #2D283E;
+    padding: 2rem auto auto 2rem;
+}
+
+.buttoncontainer {
+    padding: 1rem;
+    
+}
+
+/*BUTTONS */
+
+.prev,.next {    
+    border-radius: 12px;
+    width: 100px;
+}
